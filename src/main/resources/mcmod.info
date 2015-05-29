@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Theism",
+  "name": "Theism",
+  "description": "A mod to bring religion to Minecraft.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["SpitefulFox"],
+  "credits": "Kihira",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

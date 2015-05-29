@@ -1,0 +1,9 @@
+# Blocks
+#tile.ridiculous_log_spooky.name=Spooky Wood
+# Items
+item.HolyBook.fire.name=Tablets of the Flame
+item.PrayerBeads.name=Prayer Beads
+# Entities
+#entity.RidiculousWorld.Frankenstein.name=Frankenstein's Monster
+# Misc
+itemGroup.theism=Theism
